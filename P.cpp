@@ -13,5 +13,5 @@ int main()
     {
         cout << "ODD" <<endl;
     }
-    return 0;
+    return 0 ;
 }
